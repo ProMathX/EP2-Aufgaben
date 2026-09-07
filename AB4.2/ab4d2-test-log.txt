@@ -1,0 +1,2 @@
+step=1; ant=null; obstacle=Nest@(100.0, 100.0), r=10.0
+step=1; ant=null; obstacle=FoodSource@(200.0, 200.0), r=10.0
